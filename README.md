@@ -11,7 +11,8 @@ This project is a simple neural network built from scratch using only Python’s
 
 ## Files
 
-- `neural_network.py` – Source code (77 lines)
+- `neural_network.py` – Source code
+- `certificate.pdf` – Course completion certificate
 - `README.md` – Project overview
 
 ## Notes
