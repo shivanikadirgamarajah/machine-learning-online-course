@@ -18,5 +18,3 @@ This project is a simple neural network built from scratch using only Python’s
 This code was for a certificate course and demonstrates foundational concepts in neural networks.
 
 ---
-
-Created by Shivani Kadirgamarajah
